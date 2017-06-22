@@ -1,1 +1,1 @@
-<testsuite errors="0" failures="0" name="Django Project Tests" skips="0" tests="1" time="0.003"><testcase classname="tdd.tests.AnimalTestCase" name="test_animals_can_speak" time="0.002002" /></testsuite>
+<testsuite errors="0" failures="0" name="Django Project Tests" skips="0" tests="1" time="0.000"><testcase classname="tdd.tests.AnimalTestCase" name="test_animals_can_speak" time="0.000000" /></testsuite>
