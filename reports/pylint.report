@@ -1,0 +1,8 @@
+************* Module tdd.admin
+tdd\admin.py:1: [W0611(unused-import), ] Unused admin imported from django.contrib
+************* Module tdd.views
+tdd\views.py:1: [W0611(unused-import), ] Unused render imported from django.shortcuts
+
+------------------------------------------------------------------
+Your code has been rated at 9.39/10 (previous run: 9.39/10, +0.00)
+
