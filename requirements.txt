@@ -16,7 +16,7 @@ wrapt==1.10.10
 
 
 ## ejecutamos jenkis
-java-jar jenkins.war
+#java-jar jenkins.war
 
 
 #manage.py test
