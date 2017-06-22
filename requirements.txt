@@ -32,4 +32,6 @@ wrapt==1.10.10
 ##con jenkis
 #python manage.py jenkins
 #python manage.py jenkins --enable-coverage
-#jenkis 
+
+
+#reports/pyflakes.report,
