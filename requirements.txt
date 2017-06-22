@@ -3,14 +3,21 @@ colorama==0.3.9
 coverage==4.4.1
 Django==1.11.2
 django-jenkins==0.110.0
+django-tests==1.8.3
 isort==4.2.15
+jslint==0.6.0
 lazy-object-proxy==1.3.1
 mccabe==0.6.1
 pep8==1.7.0
+pyflakes==1.5.0
 pylint==1.7.1
 pytz==2017.2
 six==1.10.0
 wrapt==1.10.10
+
+
+## ejecutamos jenkis
+java-jar jenkins.war
 
 
 #manage.py test
@@ -25,5 +32,5 @@ wrapt==1.10.10
 
 ##con jenkis
 #python manage.py jenkins
-# python manage.py jenkins --enable-coverage
+#python manage.py jenkins --enable-coverage
 #jenkis 
