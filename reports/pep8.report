@@ -1,0 +1,2 @@
+tdd\migrations\0001_initial.py:19:80: E501 line too long (114 > 79 characters)
+tdd\migrations\0001_initial.py:21:80: E501 line too long (82 > 79 characters)
